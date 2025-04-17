@@ -1,0 +1,36 @@
+RELATÓRIO DE CONTATOS - PROJETO XYZ
+Data: 08/04/2025
+
+EQUIPE INTERNA:
+Coordenador: Carlos Mendes (carlos.mendes@empresa.com.br)
+Analistas: Ana Silva (ana_silva87@outlook.com) e Roberto Ferreira (r.ferreira@gmail.com)
+Suporte Técnico: suporte.tecnico@empresa.com.br
+
+CONSULTORES EXTERNOS:
+Maria Consulting - Contato principal: maria.santos@consultoria.net
+TechSolutions Inc. - Enviar documentação para: docs@techsolutions.com e admin@techsolutions.com
+
+FORNECEDORES:
+1. ABC Equipamentos - vendas@abcequip.com.br
+2. XYZ Materiais - contato@xyzmat.com.br, financeiro@xyzmat.com.br
+
+CLIENTES PRIORITÁRIOS:
+- Empresa 123 (atendimento123@emp123.com)
+- Corporação Alpha (info@alpha-corp.org)
+- Indústrias Beta (contato@beta.ind.br)
+
+INFORMAÇÕES ADICIONAIS:
+Para dúvidas sobre faturamento, entrar em contato pelo newsletter@financeiro.empresa.com.br
+Para suporte 24h, utilize helpdesk_24h@suporte.empresa.com.br
+
+Este e-mail user.name+tag@example.com também deve ser reconhecido, assim como este outro com subdomínio extra: contact@sub.domain.co.uk
+
+E-mails com caracteres especiais como info_sistemas-2023@empresa-global.tech também devem ser detectados.
+
+Alguns textos que NÃO são e-mails válidos (e não devem ser capturados):
+- apenas@
+- @dominio.com
+- texto@dominio
+- nome@.com
+- www.site.com
+- http://email.com
